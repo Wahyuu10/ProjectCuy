@@ -7,9 +7,11 @@ public class MenghitungBeratBadanIdeal {
     public static void main(String[] args) {
         // TODO code application logic here
         double pounds;
-        pounds = 0.45359237;
-        double iches = 0.0254;
+        double iches;
         float bmi;
+       
+       pounds = 0.45359237;
+       iches = 0.0254;
         
         Scanner input = new Scanner(System.in);
         
